@@ -1,0 +1,8 @@
+[user]
+	name = Rolando Ramirez
+	email = rolandoramirez.osorio@gmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
